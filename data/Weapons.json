@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"animationId":6,"description":"Lâmina dobrável de aço alemão Solingen usada pelos mestres da Malta dos Guaiamus.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0.05},{"code":22,"dataId":2,"value":0.1}],"iconIndex":96,"name":"Navalha Solingen","note":"","params":[0,0,24,0,0,0,15,5],"price":450,"wtypeId":1},
+{"id":2,"animationId":11,"description":"Pistola de percussão de dois canos carregada com pólvora negra e chumbo grosso.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0.04}],"iconIndex":115,"name":"Garrucha Imperial Dupla","note":"","params":[0,0,30,0,10,0,4,0],"price":650,"wtypeId":9},
+{"id":3,"animationId":1,"description":"Bengala elegante da Rua do Ouvidor com castão de prata maciça e estojo oculto.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0.05}],"iconIndex":101,"name":"Bengala Politécnica de Prata","note":"","params":[0,20,18,8,25,18,6,10],"price":550,"wtypeId":6},
+{"id":4,"animationId":6,"description":"Sabre regulamentar de aço forjado para oficiais de Cavalaria do Exército Imperial (Decreto de 1888).","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0.06}],"iconIndex":97,"name":"Sabre de Cavalaria Imperial","note":"","params":[0,0,34,6,0,0,5,0],"price":900,"wtypeId":2}
+]

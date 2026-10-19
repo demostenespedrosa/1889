@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"atypeId":1,"description":"Lenço de seda pura carmesim da Malta dos Guaiamus. O fio da navalha desliza na seda sem cortar o pescoço!","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0.08},{"code":22,"dataId":2,"value":0.05}],"iconIndex":146,"name":"Lenço de Seda Vermelho","note":"","params":[30,10,6,14,0,10,12,8],"price":350},
+{"id":2,"atypeId":1,"description":"Chapéu panamá de palha trançada com fita preta, usado inclinado na testa ao estilo carioca de 1889.","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0.04}],"iconIndex":130,"name":"Chapéu Panamá Inclinado","note":"","params":[0,0,0,12,0,10,8,5],"price":280},
+{"id":3,"atypeId":1,"description":"Camisa de linho cru com mangas dobradas e colete de alfaiataria marrom-café que permite giro livre na Capoeira.","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0.05}],"iconIndex":135,"name":"Colete de Alfaiataria & Linho","note":"","params":[40,0,4,22,0,16,10,0],"price":420},
+{"id":4,"atypeId":1,"description":"Sobrecasaca azul-noite de lã inglesa usada pelos Lentes da Escola Politécnica e conselheiros da Corte.","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0.03}],"iconIndex":137,"name":"Sobrecasaca Imperial da Corte","note":"","params":[60,30,0,26,18,28,0,10],"price":600}
+]

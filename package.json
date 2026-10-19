@@ -1,0 +1,12 @@
+{
+    "name": "1889-O-Ultimo-Imperio",
+    "main": "index.html",
+    "js-flags": "--expose-gc",
+    "window": {
+        "title": "1889: O Último Império — Edição Cinematográfica 16:9",
+        "toolbar": false,
+        "width": 1280,
+        "height": 720,
+        "icon": "icon/icon.png"
+    }
+}
